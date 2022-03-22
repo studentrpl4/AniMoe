@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817117256972",
+    "project_id": "animoe-a0cbf",
+    "storage_bucket": "animoe-a0cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817117256972:android:a925404a4b8dc4b6367d29",
+        "android_client_info": {
+          "package_name": "com.app.animoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817117256972-i3bpldi5444n4ojk93940obmtfhh3ivb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaqY0hBSqLznLaNceDR4k0a0jlICmdPp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817117256972-i3bpldi5444n4ojk93940obmtfhh3ivb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
